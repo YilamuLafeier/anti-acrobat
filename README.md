@@ -1,2 +1,2 @@
-# anti-acrobat
-Acrobat sucks.
+# Acrobat sucks.
+## Adobe in general sucks
